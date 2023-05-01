@@ -16,6 +16,7 @@ function Navbar() {
             <a href="">Home</a>
             <a href="">Login</a>
             <a href="">Register</a>
+            <a href="/booking">Booking</a>
         </div>
   </nav>
   )
